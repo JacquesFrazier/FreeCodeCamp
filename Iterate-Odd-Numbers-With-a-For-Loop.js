@@ -11,6 +11,7 @@
 //}
 //ourArray will now contain [0, 2, 4, 6, 8]. Let's change our initialization so we can count by odd numbers.
 
+//question
 //Push the odd numbers from 1 through 9 to myArray using a for loop.
 
 //answer 
