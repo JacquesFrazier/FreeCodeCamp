@@ -43,6 +43,7 @@ const contacts = [
   ];
   
   function lookUpProfile(name, prop) {
+      
     // Only change code below this line/ answer below
   
     for (var i = 0; i < contacts.length; i++) {
@@ -52,7 +53,6 @@ const contacts = [
     }
     return "No such contact";
   }
-  
     // Only change code above this line
   
   
