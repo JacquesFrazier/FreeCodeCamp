@@ -1,4 +1,4 @@
-//problem 
+//problem
 A foods object has been created with three entries. 
 Using the syntax of your choice, add three more entries to it: 
 bananas with a value of 13, 
