@@ -16,7 +16,7 @@ Each user will have an online property set to either true or false.
   }
 }
 
-//
+//example display
 const users = {
   Alan: {
     online: false
