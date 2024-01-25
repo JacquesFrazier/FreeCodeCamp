@@ -1,5 +1,5 @@
 //problem
-We've defined a function countOnline which accepts one argument, allUsers.
+We have defined a function countOnline which accepts one argument, allUsers.
 Use a for...in statement inside this function to loop through the allUsers 
 object and return the number of users whose online property is set to true. 
 An example of an object which could be passed to countOnline is shown below. 
